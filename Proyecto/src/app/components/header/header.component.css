@@ -1,5 +1,8 @@
 div{
-    background-color: rgb(99, 97, 97);
+    background-color: rgb(99, 98, 98);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 app-redes{
